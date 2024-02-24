@@ -1,0 +1,15 @@
+p{
+    color:blue;
+}
+h2{
+    color:black;
+}
+.container{
+    display: flex;
+}
+.box1{
+    flex: 1;
+}
+.box2{
+    flex: 5;
+}
